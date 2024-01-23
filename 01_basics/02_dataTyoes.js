@@ -11,5 +11,8 @@ let isLoggedIn = false
 //null
 //undefined
 //symbol
+//object
 
 console.log(typeof "Rushab");
+console.log(typeof null);
+console.log(typeof undefined);
